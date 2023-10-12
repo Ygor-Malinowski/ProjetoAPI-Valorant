@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+.container-character {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat; 
+}
